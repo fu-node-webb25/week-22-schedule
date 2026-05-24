@@ -32,6 +32,15 @@ Att skydda användardata och dokumentera vår backend är avgörande för att by
 
 ### Länkar
 
-
+* [Jsonwebtoken documentation](https://www.npmjs.com/package/jsonwebtoken)
+* [Bcrypt documentation](https://www.npmjs.com/package/bcrypt)
+* [Swagger documentation](https://swagger.io/docs/)
 
 ### Övningar 
+
+Denna vecka är tanken att ni fortsätter arbeta med era Todo APIer. Ni skall:
+* Kryptera alla lösenord innan de skickas till databasen
+* Använda jsonwebtoken till autentisering och auktorisering istället för ```global.user``` från förra veckan
+* Dokumentera ert API med Swagger 
+
+Om ni vill så kan ni ju även passa på att bygga en frontend-app till ert API. Glöm isåfall inte bort att läsa på om [cors](https://www.npmjs.com/package/cors) så att ni kommer åt er server från klienten.
