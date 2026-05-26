@@ -23,6 +23,8 @@ Att skydda användardata och dokumentera vår backend är avgörande för att by
 
 ### Inspelade föreläsningar
 
+* [Auth, 25 maj](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQArBMBtIJoCRL51iejpe4LcAeUIn8IqtVtd7722KzdHMi4?e=XJ4qaI)
+
 ### Lektionsrepon
 
 * [Bcrypt & JWT, 25 maj](https://github.com/fu-node-webb25/week-22-lecture-25-maj)
